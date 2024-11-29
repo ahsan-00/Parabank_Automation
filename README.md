@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Parabank_Automation
 # **Parabank Automation Project**
 
@@ -174,3 +175,6 @@ Cypress's built-in assertions validate:
 
 ## **License**
 This project is licensed under the [MIT License](LICENSE).
+=======
+# Parabank_Automation, I'm working on this project, Stay connected to me!!!
+>>>>>>> f50938d514814ec2b270e773b7e93282d6915c82
