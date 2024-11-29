@@ -1,5 +1,4 @@
 # Parabank_Automation
-# **Parabank Automation Project**
 
 ## **Overview**
 This project automates the functional testing of the [Parabank application](https://parabank.parasoft.com/parabank/index.htm) using **Cypress** with the **Page Object Model (POM)** design pattern. The automation covers essential user workflows, including registration, login, account activities, funds transfer, bill payment, request loans, forgot password, and more.
