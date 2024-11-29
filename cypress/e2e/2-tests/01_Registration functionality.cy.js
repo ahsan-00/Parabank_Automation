@@ -26,6 +26,6 @@ context('Actions', () => {
   
       // Verify successful registration by checking for confirmation message or redirection
       cy.url().should('include', '/parabank/register.htm')
-      //cy.contains('Your account was created successfully. You are now logged in.').should('be.visible')
+      //cy.contains('Your account was created successfully. You are now logged in.').should('be.visible') 
     })
   })
