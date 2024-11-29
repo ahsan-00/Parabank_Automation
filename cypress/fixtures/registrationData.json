@@ -1,0 +1,29 @@
+[
+    {
+      "firstName": "Alice",
+      "lastName": "Wonderland",
+      "address": "789 Maple Lane",
+      "city": "Neverland",
+      "state": "FL",
+      "zipCode": "33101",
+      "phoneNumber": "555-9876",
+      "ssn": "111-22-3333",
+      "username": "alicewonder",
+      "password": "password123",
+      "confirmPassword": "password123"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Builder",
+      "address": "101 Construction Way",
+      "city": "Bricktown",
+      "state": "CA",
+      "zipCode": "90210",
+      "phoneNumber": "555-4321",
+      "ssn": "444-55-6666",
+      "username": "bobbuilds",
+      "password": "build123",
+      "confirmPassword": "build123"
+    }
+  ]
+  
